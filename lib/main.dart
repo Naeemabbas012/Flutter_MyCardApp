@@ -34,7 +34,7 @@ class Home extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[
                       Text(
-                        "Naeem Abbas",
+                        "Naeem Abbas SAHAR",
                         style: TextStyle(fontSize: 20,fontFamily: "Poppins"),
                       ),
                       Text("App developer", style: TextStyle(fontFamily: "Poppins Custom"),
